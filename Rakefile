@@ -1,6 +1,6 @@
 # require 'rake/clean'
 # require 'rake/testtask'
-# require 'fileutils'
+# require 'fileutils'd
 require 'date'
 
 # CI Reporter is only needed for the CI
